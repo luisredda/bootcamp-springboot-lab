@@ -1,0 +1,6 @@
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/service/OfficeSupplyService.java
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/OfficeSupplyApiApplication.java
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/config/DataInitializer.java
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/model/OfficeSupply.java
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/controller/OfficeSupplyController.java
+/Users/luisredda/office-supply-api/src/main/java/com/officesupply/api/repository/OfficeSupplyRepository.java
